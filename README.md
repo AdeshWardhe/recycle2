@@ -2,7 +2,7 @@
 
 This is a full-stack AI-based web application that promotes sustainable e-waste recycling by connecting users with e-waste recycling NGOs. Built using **Flask**, **YOLOv5**, **Leaflet Maps**, and **geolocation APIs**, it helps detect e-waste from images and schedule pickup requests based on user location.
 
-![Screenshot]([static/screenshot.png](https://github.com/AdeshWardhe/recycle2/blob/ff4e18807b981fe7262a2b8d596f174421b9880a/front.jpg?raw=true))
+![Screenshot](https://github.com/AdeshWardhe/recycle2/blob/ff4e18807b981fe7262a2b8d596f174421b9880a/front.jpg?raw=true))
 
 ---
 
