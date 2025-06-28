@@ -1,0 +1,7 @@
+UPLOAD_FOLDER = r"uploads"
+YOLO_MODEL_PATH = r"yolov5\runs\train\exp\weights\best.pt"
+EXCEL_FILE = r"uploads_updated_extended.xlsx"
+weights_path = r"yolov5\runs\train\exp\weights\best.pt"
+DETECT_SCRIPT = r"yolov5\detect.py"
+STATIC_IMAGE_PATH = r"static/after.png"
+DETECT_RESULTS_DIR = r"yolov5\runs\detect"

@@ -1,0 +1,9 @@
+names:
+- keyboard
+- mouse
+- battery
+- processor_and_memory
+nc: 4
+test: /content/merged_dataset/images/test
+train: /content/merged_dataset/images/train
+val: /content/merged_dataset/images/valid
