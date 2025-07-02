@@ -53,7 +53,7 @@ This is a full-stack AI-based web application that promotes sustainable e-waste 
 
 | Upload | Detection |
 |--------|-----------|
-| [![Image_alt](https://github.com/AdeshWardhe/recycle2/blob/fce286567c215330bf2ea65701304d5fb7f3f679/detected_keyboard.jpg?raw=true)]
+| [![Image_alt](https://github.com/AdeshWardhe/recycle2/blob/461e9a8db972f58bdf5182b48a149411eb4c096d/detected_keyboard.jpg?raw=true)]
  | `Detected: keyboard (0.83)` |
 
 ---
