@@ -73,17 +73,14 @@ there are some screenshot
 1. After the image getting detected the image would be shown and the info like the location of the user and the object that has been detected will get store in the excel sheet
    
   ![saved_in_excel](https://github.com/AdeshWardhe/recycle2/blob/5ae9c473e0e2338dcb351507dfe513e6a7a49b97/saved_in_excel.jpg?raw=true)
-3. And the entries in the excel sheet will be shown in the website in the order of the last to first means the last entry in the excel sheet will be shown first in the website and then we can sent the custom message to that user
-   
+2. And the entries in the excel sheet will be shown in the website in the order of the last to first means the last entry in the excel sheet will be shown first in the website and then we can sent the custom message to that user
   ![saved_in_excel](https://github.com/AdeshWardhe/recycle2/blob/69c63b6229b7467b8227992d244062457e3d2e3c/custom_email_updated.JPG?raw=true)
-4. notification of email sent
-   
+3. notification of email sent
    ![email_sent](https://github.com/AdeshWardhe/recycle2/blob/e79e2cf50d2ba0ba0edf55d3ebe21ca58670fed4/email_sent.jpg?raw=true)
-5. And the marker will get updated in the map which is shown in the website
-
+4. And the marker will get updated in the map which is shown in the website
    ![saved_in_excel](https://github.com/AdeshWardhe/recycle2/blob/e79e2cf50d2ba0ba0edf55d3ebe21ca58670fed4/loc_map_marker.jpg)
    
-6. And the link coloumu in the right side of the wensite will get updated as per the image detected
+5. And the link coloumu in the right side of the wensite will get updated as per the image detected
 
 
 
