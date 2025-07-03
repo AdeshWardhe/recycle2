@@ -69,20 +69,42 @@ This is a full-stack AI-based web application that promotes sustainable e-waste 
 
 ---
 
-there are some screenshot 
-1. After the image getting detected the image would be shown and the info like the location of the user and the object that has been detected will get store in the excel sheet
-   
-  ![saved_in_excel](https://github.com/AdeshWardhe/recycle2/blob/5ae9c473e0e2338dcb351507dfe513e6a7a49b97/saved_in_excel.jpg?raw=true)
-2. And the entries in the excel sheet will be shown in the website in the order of the last to first means the last entry in the excel sheet will be shown first in the website and then we can sent the custom message to that user
-  ![saved_in_excel](https://github.com/AdeshWardhe/recycle2/blob/69c63b6229b7467b8227992d244062457e3d2e3c/custom_email_updated.JPG?raw=true)
-3. notification of email sent
+## 🖼️ More Visuals from the Application Flow
 
-   ![email_sent](https://github.com/AdeshWardhe/recycle2/blob/e79e2cf50d2ba0ba0edf55d3ebe21ca58670fed4/email_sent.jpg?raw=true)
-   
-4. And the marker will get updated in the map which is shown in the website
-   ![saved_in_excel](https://github.com/AdeshWardhe/recycle2/blob/e79e2cf50d2ba0ba0edf55d3ebe21ca58670fed4/loc_map_marker.jpg)
-   
-5. And the link coloumu in the right side of the wensite will get updated as per the image detected
+Here are some screenshots that demonstrate the full process after detecting an e-waste item:
+
+---
+
+### 1. 📝 Detection Results Stored in Excel  
+After an image is detected using YOLOv5, the **user’s location** and **detected object name** are automatically saved into an Excel sheet.
+
+![saved_in_excel](https://github.com/AdeshWardhe/recycle2/blob/5ae9c473e0e2338dcb351507dfe513e6a7a49b97/saved_in_excel.jpg?raw=true)
+
+---
+
+### 2. 📄 Live Web View from Excel  
+Entries from the Excel sheet are shown on the website in **reverse order** – the most recent detection appears at the top. NGOs or admins can send **custom messages** to each user.
+
+![saved_in_excel](https://github.com/AdeshWardhe/recycle2/blob/69c63b6229b7467b8227992d244062457e3d2e3c/custom_email_updated.JPG?raw=true)
+
+---
+
+### 3. ✅ Email Notification Sent  
+Once the custom email is sent, a **confirmation notification** appears.
+
+![email_sent](https://github.com/AdeshWardhe/recycle2/blob/e79e2cf50d2ba0ba0edf55d3ebe21ca58670fed4/email_sent.jpg?raw=true)
+
+---
+
+### 4. 🗺️ Map Marker Updated  
+The user’s pickup location is shown as a **marker on the map** embedded on the NGO dashboard.
+
+![saved_in_excel](https://github.com/AdeshWardhe/recycle2/blob/e79e2cf50d2ba0ba0edf55d3ebe21ca58670fed4/loc_map_marker.jpg)
+
+---
+
+### 5. 🔗 Dynamic Resource Links Updated  
+The "Links" section on the right side of the website updates dynamically based on the **detected e-waste item** – providing relevant recycling resources or videos.
 
 
 
