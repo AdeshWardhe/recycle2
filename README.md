@@ -69,6 +69,22 @@ This is a full-stack AI-based web application that promotes sustainable e-waste 
 
 ---
 
+there are some screenshot 
+1. After the image getting detected the image would be shown and the info like the location of the user and the object that has been detected will get store in the excel sheet 
+  ![saved_in_excel]()
+2. And the entries in the excel sheet will be shown in the website in the order of the last to first means the last entry in the excel sheet will be shown first in the website and then we can sent the custom message to that user 
+  ![saved_in_excel]()
+3. notification of email sent
+   ![saved_in_excel]()
+4. And the marker will get updated in the map which is shown in the website
+   ![saved_in_excel]()
+
+
+
+
+
+
+
 ## 📦 Installation & Run (Local)
 
 ```bash
