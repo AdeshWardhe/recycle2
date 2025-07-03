@@ -49,12 +49,14 @@ This is a full-stack AI-based web application that promotes sustainable e-waste 
 
 ---
 
-## 📸 Sample Output
+### 🔍 YOLOv5 Detection Result Example
+
+Below is an example where a keyboard was successfully detected from an uploaded image, with a confidence score of 91%.
 
 | Upload | Detection |
 |--------|-----------|
-| ![Image_alt](https://github.com/AdeshWardhe/recycle2/blob/461e9a8db972f58bdf5182b48a149411eb4c096d/detected_keyboard.jpg?raw=true)
- | `Detected: keyboard (0.91)` |
+| ![Image_alt](https://github.com/AdeshWardhe/recycle2/blob/461e9a8db972f58bdf5182b48a149411eb4c096d/detected_keyboard.jpg?raw=true) | `Detected: keyboard (0.91)` |
+
 
 ---
 
