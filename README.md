@@ -78,6 +78,7 @@ there are some screenshot
 3. notification of email sent
 
    ![email_sent](https://github.com/AdeshWardhe/recycle2/blob/e79e2cf50d2ba0ba0edf55d3ebe21ca58670fed4/email_sent.jpg?raw=true)
+   
 4. And the marker will get updated in the map which is shown in the website
    ![saved_in_excel](https://github.com/AdeshWardhe/recycle2/blob/e79e2cf50d2ba0ba0edf55d3ebe21ca58670fed4/loc_map_marker.jpg)
    
