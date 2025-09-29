@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Model weights (handled via Hugging Face)
+*.pt
+
+# YOLOv5 training outputs
+yolov5/runs/
+
+# User uploads
+uploads/
+
+# Local databases and excel sheets
+*.db
+*.sqlite3
+*.xlsx
+
+# Temp/editor files
+tempCodeRunnerFile.py
